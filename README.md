@@ -10,7 +10,7 @@ An end-to-end **Sales & Operations MIS Dashboard** project built with **PostgreS
 
 ## Dashboard Preview
 
-![Sales & Operations MIS Dashboard](dashboard.png)
+![Sales & Operations MIS Dashboard](https://github.com/Devmurari0205/sales-operations-mis-dashboard/blob/main/dashboard/Screenshot%202026-10-24%20184734.png)
 
 The dashboard includes KPI cards, monthly net-sales trend, region-wise sales, sales-channel performance, product-category performance, order-status mix, top 10 cities by net sales, payment-method mix, and interactive Excel slicers.
 
