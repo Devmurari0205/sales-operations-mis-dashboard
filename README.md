@@ -246,8 +246,9 @@ This repository is designed to demonstrate the ability to:
 **Harsh Devmurari**  
 Aspiring MIS Executive / Data Analyst
 
-- GitHub: []
-- LinkedIn: []
+- GitHub: [https://github.com/Devmurari0205]
+- LinkedIn: [www.linkedin.com/in/
+harsh-devmurari-895b98236]
 
 ## Disclaimer
 
